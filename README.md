@@ -1,7 +1,6 @@
-# google-colab
-For all Jupyter notebooks/projects
+Practice with Machine Learning Algorithms!
 
-This repo holds all my practice projects as I learn different machine learning algorithms
+This repo tracks all my practice projects as I learn different machine learning algorithms
 
 So far I have covered these concepts:
 - [x] Exploratory Data Analysis
