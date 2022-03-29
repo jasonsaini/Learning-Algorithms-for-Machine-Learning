@@ -6,6 +6,7 @@ So far I have covered these concepts:
 - [x] Exploratory Data Analysis
 - [x] Linear Regression
 - [ ] Classification
+
 Here are the problem statements for each project:
 
 1) Exploratory Data Analysis:
